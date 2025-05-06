@@ -1,22 +1,39 @@
-# 👋 Bonjour, moi c’est Drys !
+# 👋 Salut, moi c’est Drys !
 
 🎓 Étudiant en 2ᵉ année de Bachelor Développement à Digital Campus  
-💼 En alternance DevOps chez Agirc-Arrco (Python, Java, Angular)  
-🎯 Objectif : Intégrer l’EPITA en cycle ingénieur développement logiciel  
-📍 Basé à Houilles, Île-de-France, France  
-🏋️‍♂️ Passionné par le développement, la cybersécurité, l’IA... et la musculation !
+💼 Alternant DevOps chez Agirc-Arrco (Python, Java, Angular)  
+📍 Basé à Sartrouville, Île-de-France, France  
+💻 Passionné uniquement par le développement logiciel
 
 ---
 
-## 🧰 Compétences
+## 🚀 Objectifs
 
-- **Langages** :  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- 🎯 Intégrer l’EPITA en cycle ingénieur développement logiciel  
+- 🧠 Monter en expertise sur les architectures backend et DevOps  
+- 🌱 Approfondir mes compétences en clean code, testing et bonnes pratiques
 
-- **Frameworks / Techs** :  
+---
+
+## 💡 À propos de moi
+
+- 👨‍💻 J’adore coder des projets persos et explorer de nouvelles technos  
+- 🧩 Curieux, autonome, rigoureux dans ma façon de travailler  
+- 📚 Je possède plusieurs **certifications** (CS50, cybersécurité, Git, Docker...)  
+- 🌍 Je développe également mon **portfolio from scratch** en HTML/CSS  
+- 🔧 Je n’utilise pas de widgets ou solutions toutes faites : tout est fait maison
+
+---
+
+## 🧰 Compétences techniques
+
+- **Langages :**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- **Frameworks / Outils :**  
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
@@ -25,28 +42,35 @@
 
 ---
 
+## 📦 Projets notables
+
+- 🧠 **Projet CS50** : SQL, analyse de données, cybersécurité, Flask  
+- 💰 **Gestion de finances perso** : SQLite + interface Python  
+- ⚽ **Logiciel de gestion de clubs de sport** : Java + Angular + MySQL  
+- 🌐 **Site vitrine en Next.js** : statique + backend Java (à venir)
+
+---
+
 ## 📊 Statistiques GitHub
+
+### 📈 Activité générale
 
 ![Drys's GitHub stats](https://github-readme-stats.vercel.app/api?username=drys&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drys&layout=compact&theme=radical)
 
----
+### ⏱️ Habitudes de codage
 
-## 🔭 Projets en cours
-
-- 🎓 CS50x Harvard – Projets en SQL, Python, Flask, HTML/CSS  
-- 💸 App de gestion financière personnelle en Python & SQLite  
-- 🌐 Site de présentation avec Next.js + backend Java  
-- 📦 Logiciel de gestion pour clubs de sport (Angular + Java + MySQL)
+![GitHub Streak](https://streak-stats.demolab.com?user=drys&theme=radical&hide_border=false)  
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=drys&theme=radical)
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ton-profil) *(remplace par ton lien)*
-- ✉️ Email : drys@example.com *(à adapter)*
-- 🌍 Portfolio : [drys.dev](https://drys.dev) *(si tu as un site)*
+- 📩 Email : drys@example.com *(à personnaliser)*  
+- 💼 LinkedIn : [linkedin.com/in/drys](https://linkedin.com/in/ton-profil) *(à compléter)*  
+- 🌍 Portfolio : [drys.dev](https://drys.dev) *(à créer si besoin)*
 
 ---
 
-Merci pour ta visite ! 🚀 N’hésite pas à explorer mes projets et à me contacter pour collaborer 👨‍💻
+*Merci d’avoir lu jusqu’ici ! N’hésite pas à explorer mes projets ou à me contacter.* 🚀
