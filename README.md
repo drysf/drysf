@@ -67,9 +67,9 @@
 
 ## 📫 Contact
 
-- 📩 Email : drys@example.com *(à personnaliser)*  
-- 💼 LinkedIn : [linkedin.com/in/drys](https://linkedin.com/in/ton-profil) *(à compléter)*  
-- 🌍 Portfolio : [drys.dev](https://drys.dev) *(à créer si besoin)*
+- 📩 Email : drys.ferhi@gmail.com  
+- 💼 LinkedIn : [linkedin.com/in/drys]((https://www.linkedin.com/in/drys-ferhi-037937294/))   
+- 🌍 Portfolio : [drys-ferhi.com](https://drys-ferhi.com)
 
 ---
 
