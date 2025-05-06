@@ -61,14 +61,13 @@
 ### ⏱️ Habitudes de codage
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=drys&theme=radical&hide_border=false)  
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=drys&theme=radical)
 
 ---
 
 ## 📫 Contact
 
 - 📩 Email : drys.ferhi@gmail.com  
-- 💼 LinkedIn : [linkedin.com/in/drys]((https://www.linkedin.com/in/drys-ferhi-037937294/))   
+- 💼 LinkedIn : [linkedin.com/in/drys](https://www.linkedin.com/in/drys-ferhi-037937294/)
 - 🌍 Portfolio : [drys-ferhi.com](https://drys-ferhi.com)
 
 ---
