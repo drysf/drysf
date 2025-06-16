@@ -1,9 +1,9 @@
 # 👋 Salut, moi c’est Drys !
 
 🎓 Étudiant en 2ᵉ année de Bachelor Développement à Digital Campus  
-💼 Alternant DevOps chez Agirc-Arrco (Python, Java, Angular)  
+💼 Alternant DevOps chez Agirc-Arrco (Python)  
 📍 Basé à Sartrouville, Île-de-France, France  
-💻 Passionné uniquement par le développement logiciel
+💻 Passionné par le développement logiciel
 
 ---
 
