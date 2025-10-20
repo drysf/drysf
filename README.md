@@ -1,27 +1,13 @@
-# 👋 Salut, moi c’est Drys !
-
-🎓 Étudiant en 2ᵉ année de Bachelor Développement à Digital Campus  
+🎓 Étudiant en 3ᵉ année de Bachelor Informatique à l'Esiee-it
 💼 Alternant DevOps chez Agirc-Arrco (Python)  
 📍 Basé à Sartrouville, Île-de-France, France  
 💻 Passionné par le développement logiciel
 
 ---
 
-## 🚀 Objectifs
+## 🚀 Objectif
 
 - 🎯 Intégrer l’EPITA en cycle ingénieur développement logiciel  
-- 🧠 Monter en expertise sur les architectures backend et DevOps  
-- 🌱 Approfondir mes compétences en clean code, testing et bonnes pratiques
-
----
-
-## 💡 À propos de moi
-
-- 👨‍💻 J’adore coder des projets persos et explorer de nouvelles technos  
-- 🧩 Curieux, autonome, rigoureux dans ma façon de travailler  
-- 📚 Je possède plusieurs **certifications** (CS50, cybersécurité, Git, Docker...)  
-- 🌍 Je développe également mon **portfolio from scratch** en HTML/CSS  
-- 🔧 Je n’utilise pas de widgets ou solutions toutes faites : tout est fait maison
 
 ---
 
@@ -42,21 +28,11 @@
 
 ---
 
-## 📦 Projets notables
-
-- 🧠 **Projet CS50** : SQL, analyse de données, cybersécurité, Flask  
-- 💰 **Gestion de finances perso** : SQLite + interface Python  
-- ⚽ **Logiciel de gestion de clubs de sport** : Java + Angular + MySQL  
-- 🌐 **Site vitrine en Next.js** : statique + backend Java (à venir)
-
----
-
 ## 📊 Statistiques GitHub
 
 ### 📈 Activité générale
 
 ![Drys's GitHub stats](https://github-readme-stats.vercel.app/api?username=drys&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drys&layout=compact&theme=radical)
 
 ### ⏱️ Habitudes de codage
 
@@ -69,7 +45,3 @@
 - 📩 Email : drys.ferhi@gmail.com  
 - 💼 LinkedIn : [linkedin.com/in/drys](https://www.linkedin.com/in/drys-ferhi-037937294/)
 - 🌍 Portfolio : [drys-ferhi.com](https://drys-ferhi.com)
-
----
-
-*Merci d’avoir lu jusqu’ici ! N’hésite pas à explorer mes projets ou à me contacter.* 🚀
