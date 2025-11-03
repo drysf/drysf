@@ -1,16 +1,3 @@
-🎓 Étudiant en 3ᵉ année de Bachelor Informatique à l'Esiee-it
-💼 Alternant DevOps chez Agirc-Arrco (Python)  
-📍 Basé à Sartrouville, Île-de-France, France  
-💻 Passionné par le développement logiciel
-
----
-
-## 🚀 Objectif
-
-- 🎯 Intégrer l’EPITA en cycle ingénieur développement logiciel  
-
----
-
 ## 🧰 Compétences techniques
 
 - **Langages :**  
