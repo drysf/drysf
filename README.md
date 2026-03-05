@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/drys-ferhi-037937294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://drys-ferhi.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:drys.ferhi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -66,7 +65,7 @@ actuellement:
 
 <br/><br/>
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 <br/>
 
@@ -94,7 +93,7 @@ actuellement:
 
 <br/>
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
 
@@ -110,7 +109,7 @@ actuellement:
 
 <div align="center">
 
-### 📬 Me contacter
+### Me contacter
 
 <br/>
 
@@ -126,5 +125,4 @@ N'hésitez pas à me contacter pour toute **collaboration**, **opportunité** ou
 
 </div>
 
-<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
