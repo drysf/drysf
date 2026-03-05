@@ -1,11 +1,5 @@
 <div align="center">
 
-<br/>
-
-
-
-<br/><br/>
-
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/drys-ferhi-037937294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://drys-ferhi.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
