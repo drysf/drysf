@@ -5,10 +5,7 @@
 
 <br/>
 
-<!-- TYPING SVG -->
-<a href="https://github.com/drys">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Bienvenue+sur+mon+profil+GitHub+!+👋;Full+Stack+Developer+%7C+Cloud+Enthusiast+☁️" alt="Typing SVG" />
-</a>
+
 
 <br/><br/>
 
