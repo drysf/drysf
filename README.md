@@ -1,19 +1,25 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Drys%20Ferhi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Développeur%20Full%20Stack%20%7C%20Passionné%20par%20le%20Cloud%20%26%20DevOps&descSize=18&descAlignY=52" width="100%"/>
-
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Bienvenue+sur+mon+profil+GitHub+!+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cloud+Enthusiast+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Drys+Ferhi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Developer+%7C+Cloud+%26+DevOps&descSize=18&descAlignY=52" width="100%"/>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drys-ferhi-037937294/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://drys-ferhi.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drys.ferhi@gmail.com)
+<!-- TYPING SVG -->
+<a href="https://github.com/drys">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Bienvenue+sur+mon+profil+GitHub+!+👋;Full+Stack+Developer+%7C+Cloud+Enthusiast+☁️" alt="Typing SVG" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=drys&style=for-the-badge&color=blueviolet)
+<br/><br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/drys-ferhi-037937294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://drys-ferhi.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:drys.ferhi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=drys&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
 </div>
 
@@ -51,46 +57,46 @@ actuellement:
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
-<br/>
+<br/><br/>
 
 ### 🚀 Frameworks & Librairies
 
 <br/>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 
-<br/>
+<br/><br/>
 
 ### ☁️ DevOps & Cloud
 
 <br/>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 
-<br/>
+<br/><br/>
 
 ### 🗄️ Bases de données
 
 <br/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 </div>
 
@@ -104,44 +110,16 @@ actuellement:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=drys&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drys&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api?username=drys&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drys&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" width="41%" alt="Top Langs"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=drys&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" width="55%" />
+<img src="https://streak-stats.demolab.com?user=drys&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" width="55%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=drys&theme=redical&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" width="90%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-
-![Trophées](https://github-profile-trophy.vercel.app/?username=drys&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/drys/drys/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=drys&theme=radical&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" width="90%" alt="Activity Graph"/>
 
 </div>
 
@@ -155,7 +133,9 @@ actuellement:
 
 ### 💬 Citation du jour
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 </div>
 
@@ -173,9 +153,9 @@ N'hésitez pas à me contacter pour toute **collaboration**, **opportunité** ou
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📩_drys.ferhi@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:drys.ferhi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/drys-ferhi-037937294/)
-[![Portfolio](https://img.shields.io/badge/🌍_drys--ferhi.com-FF5722?style=for-the-badge&logoColor=white)](https://drys-ferhi.com)
+<a href="mailto:drys.ferhi@gmail.com"><img src="https://img.shields.io/badge/drys.ferhi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/drys-ferhi-037937294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://drys-ferhi.com"><img src="https://img.shields.io/badge/drys--ferhi.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
