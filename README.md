@@ -117,24 +117,6 @@ actuellement:
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### 💬 Citation du jour
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
