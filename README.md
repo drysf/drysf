@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Drys+Ferhi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Developer+%7C+Cloud+%26+DevOps&descSize=18&descAlignY=52" width="100%"/>
-
 <br/>
 
 
