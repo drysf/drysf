@@ -21,7 +21,7 @@
 
 <br/>
 
-## 🙋‍♂️ À propos de moi
+## À propos de moi
 
 ```yaml
 nom: Drys Ferhi
@@ -43,11 +43,11 @@ actuellement:
 
 <br/>
 
-## 🧰 Compétences techniques
+## Compétences techniques
 
 <div align="center">
 
-### 💻 Langages
+### Langages
 
 <br/>
 
@@ -61,7 +61,7 @@ actuellement:
 
 <br/><br/>
 
-### 🚀 Frameworks & Librairies
+### Frameworks & Librairies
 
 <br/>
 
@@ -84,7 +84,7 @@ actuellement:
 
 <br/><br/>
 
-### 🗄️ Bases de données
+### Bases de données
 
 <br/>
 
@@ -103,11 +103,6 @@ actuellement:
 ## 📊 Statistiques GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=drys&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drys&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" width="41%" alt="Top Langs"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=drys&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" width="55%" alt="GitHub Streak"/>
 
